@@ -1,0 +1,115 @@
+
+
+    [
+    {
+        "value": "Алхимик",
+        "label": "Алхимик / Alchemist",
+        "url": "https://pf2.ru/classes/alchemist"
+    },
+    {
+        "value": "Анимист",
+        "label": "Анимист / Animist",
+        "url": "https://pf2.ru/classes/animist"
+    },
+    {
+        "value": "Бард",
+        "label": "Бард / Bard",
+        "url": "https://pf2.ru/classes/bard"
+    },
+    {
+        "value": "Варвар",
+        "label": "Варвар / Barbarian",
+        "url": "https://pf2.ru/classes/barbarian"
+    },
+    {
+        "value": "Ведьма",
+        "label": "Ведьма / Witch",
+        "url": "https://pf2.ru/classes/witch"
+    },
+    {
+        "value": "Воин",
+        "label": "Воин / Fighter",
+        "url": "https://pf2.ru/classes/fighter"
+    },
+    {
+        "value": "Волшебник",
+        "label": "Волшебник / Wizard",
+        "url": "https://pf2.ru/classes/wizard"
+    },
+    {
+        "value": "Друид",
+        "label": "Друид / Druid",
+        "url": "https://pf2.ru/classes/druid"
+    },
+    {
+        "value": "Жрец",
+        "label": "Жрец / Cleric",
+        "url": "https://pf2.ru/classes/cleric"
+    },
+    {
+        "value": "Изобретатель",
+        "label": "Изобретатель / Inventor",
+        "url": "https://pf2.ru/classes/inventor"
+    },
+    {
+        "value": "Кинетик",
+        "label": "Кинетик / Kineticist",
+        "url": "https://pf2.ru/classes/kineticist"
+    },
+    {
+        "value": "Монах",
+        "label": "Монах / Monk",
+        "url": "https://pf2.ru/classes/monk"
+    },
+    {
+        "value": "Оракул",
+        "label": "Оракул / Oracle",
+        "url": "https://pf2.ru/classes/oracle"
+    },
+    {
+        "value": "Плут",
+        "label": "Плут / Rogue",
+        "url": "https://pf2.ru/classes/rogue"
+    },
+    {
+        "value": "Поборник",
+        "label": "Поборник / Champion",
+        "url": "https://pf2.ru/classes/champion"
+    },
+    {
+        "value": "Следователь",
+        "label": "Следователь / Investigator",
+        "url": "https://pf2.ru/classes/investigator"
+    },
+    {
+        "value": "Следопыт",
+        "label": "Следопыт / Ranger",
+        "url": "https://pf2.ru/classes/ranger"
+    },
+    {
+        "value": "Сорвиголова",
+        "label": "Сорвиголова / Swashbuckler",
+        "url": "https://pf2.ru/classes/swashbuckler"
+    },
+    {
+        "value": "Стрелок",
+        "label": "Стрелок / Gunslinger",
+        "url": "https://pf2.ru/classes/gunslinger"
+    },
+    {
+        "value": "Чародей",
+        "label": "Чародей / Sorcerer",
+        "url": "https://pf2.ru/classes/sorcerer"
+    },
+    {
+        "value": "Экземплар",
+        "label": "Экземплар / Exemplar",
+        "url": "https://pf2.ru/classes/exemplar"
+    },
+
+    {
+      "value": "Другой",
+      "label": "Другой (введите вручную)",
+      "url": ""
+    }
+  ]

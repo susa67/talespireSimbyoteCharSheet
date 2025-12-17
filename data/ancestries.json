@@ -1,0 +1,174 @@
+
+   [
+    {
+        "value": "Автоматон",
+        "label": "Автоматон / Automaton",
+        "url": "https://pf2.ru/ancestries/Automaton"
+    },
+    {
+        "value": "Атамару",
+        "label": "Атамару / Athamaru",
+        "url": "https://pf2.ru/ancestries/Athamaru"
+    },
+    {
+        "value": "Ваянг",
+        "label": "Ваянг / Wayang",
+        "url": "https://pf2.ru/ancestries/Wayang"
+    },
+    {
+        "value": "Гном",
+        "label": "Гном / Gnome",
+        "url": "https://pf2.ru/ancestries/gnome"
+    },
+    {
+        "value": "Гоблин",
+        "label": "Гоблин / Goblin",
+        "url": "https://pf2.ru/ancestries/Goblin"
+    },
+    {
+        "value": "Дварф",
+        "label": "Дварф / Dwarf",
+        "url": "https://pf2.ru/ancestries/dwarf"
+    },
+    {
+        "value": "Кентавр",
+        "label": "Кентавр / Centaur",
+        "url": "https://pf2.ru/ancestries/Centaur"
+    },
+    {
+        "value": "Кицунэ",
+        "label": "Кицунэ / Kitsune",
+        "url": "https://pf2.ru/ancestries/Kitsune"
+    },
+    {
+        "value": "Кобольд",
+        "label": "Кобольд / Kobold",
+        "url": "https://pf2.ru/ancestries/kobold"
+    },
+    {
+        "value": "Котолюд",
+        "label": "Котолюд / Catfolk",
+        "url": "https://pf2.ru/ancestries/catfolk"
+    },
+    {
+        "value": "Крысолюд",
+        "label": "Крысолюд / Ratfolk",
+        "url": "https://pf2.ru/ancestries/ratfolk"
+    },
+    {
+        "value": "Кукла",
+        "label": "Кукла / Poppet",
+        "url": "https://pf2.ru/ancestries/Poppet"
+    },
+    {
+        "value": "Леший",
+        "label": "Леший / Leshy",
+        "url": "https://pf2.ru/ancestries/leshy"
+    },
+    {
+        "value": "Людоящер",
+        "label": "Людоящер / Lizardfolk",
+        "url": "https://pf2.ru/ancestries/lizardfolk"
+    },
+    {
+        "value": "Мерфолк",
+        "label": "Мерфолк / Merfolk",
+        "url": "https://pf2.ru/ancestries/Merfolk"
+    },
+    {
+        "value": "Минотавр",
+        "label": "Минотавр / Minotaur",
+        "url": "https://pf2.ru/ancestries/Minotaur"
+    },
+    {
+        "value": "Нагаджи",
+        "label": "Нагаджи / Nagaji",
+        "url": "https://pf2.ru/ancestries/Nagaji"
+    },
+    {
+        "value": "Орк",
+        "label": "Орк / Orc",
+        "url": "https://pf2.ru/ancestries/orc"
+    },
+    {
+        "value": "Полурослик",
+        "label": "Полурослик / Halfling",
+        "url": "https://pf2.ru/ancestries/halfling"
+    },
+    {
+        "value": "Пробуждённое животное",
+        "label": "Пробуждённое животное / Awakened Animal",
+        "url": "https://pf2.ru/ancestries/Awakened%20Animal"
+    },
+    {
+        "value": "Самсаран",
+        "label": "Самсаран / Samsaran",
+        "url": "https://pf2.ru/ancestries/Samsaran"
+    },
+    {
+        "value": "Сарангай",
+        "label": "Сарангай / Sarangay",
+        "url": "https://pf2.ru/ancestries/Sarangay"
+    },
+    {
+        "value": "Спрайт",
+        "label": "Спрайт / Sprite",
+        "url": "https://pf2.ru/ancestries/Sprite"
+    },
+    {
+        "value": "Сурки",
+        "label": "Сурки / Surki",
+        "url": "https://pf2.ru/ancestries/Surki"
+    },
+    {
+        "value": "Тануки",
+        "label": "Тануки / Tanuki",
+        "url": "https://pf2.ru/ancestries/Tanuki"
+    },
+    {
+        "value": "Трипки",
+        "label": "Трипки / Tripkee",
+        "url": "https://pf2.ru/ancestries/Tripkee"
+    },
+    {
+        "value": "Тэнгу",
+        "label": "Тэнгу / Tengu",
+        "url": "https://pf2.ru/ancestries/tengu"
+    },
+    {
+        "value": "Хобгоблин",
+        "label": "Хобгоблин / Hobgoblin",
+        "url": "https://pf2.ru/ancestries/Hobgoblin"
+    },
+    {
+        "value": "Холо",
+        "label": "Холо / Kholo",
+        "url": "https://pf2.ru/ancestries/Kholo"
+    },
+    {
+        "value": "Человек",
+        "label": "Человек / Human",
+        "url": "https://pf2.ru/ancestries/human"
+    },
+    {
+        "value": "Эльф",
+        "label": "Эльф / Elf",
+        "url": "https://pf2.ru/ancestries/elf"
+    },
+    {
+        "value": "Якша",
+        "label": "Якша / Yaksha",
+        "url": "https://pf2.ru/ancestries/Yaksha"
+    },
+    {
+        "value": "Яогуай",
+        "label": "Яогуай / Yaoguai",
+        "url": "https://pf2.ru/ancestries/Yaoguai"
+    },
+
+    {
+      "value": "Другой",
+      "label": "Другое (введите вручную)",
+      "url": ""
+    }
+  ]

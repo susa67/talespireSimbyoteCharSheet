@@ -1,0 +1,1169 @@
+
+    [
+    {
+        "value": "Агент Колокольчика",
+        "label": "Агент Колокольчика",
+        "url": "https://pf2.ru/backgrounds/bellflower%20agent"
+    },
+    {
+        "value": "Адвокат",
+        "label": "Адвокат",
+        "url": "https://pf2.ru/backgrounds/barrister"
+    },
+    {
+        "value": "Адепт боевых искусств",
+        "label": "Адепт боевых искусств",
+        "url": "https://pf2.ru/backgrounds/martial%20disciple"
+    },
+    {
+        "value": "Азартный игрок",
+        "label": "Азартный игрок",
+        "url": "https://pf2.ru/backgrounds/gambler"
+    },
+    {
+        "value": "Академик Магаамбии",
+        "label": "Академик Магаамбии",
+        "url": "https://pf2.ru/backgrounds/magaambya%20academic"
+    },
+    {
+        "value": "Акробат",
+        "label": "Акробат",
+        "url": "https://pf2.ru/backgrounds/acrobat"
+    },
+    {
+        "value": "Акупунктурист",
+        "label": "Акупунктурист",
+        "url": "https://pf2.ru/backgrounds/acupuncturist"
+    },
+    {
+        "value": "Алькенстарский механик",
+        "label": "Алькенстарский механик",
+        "url": "https://pf2.ru/backgrounds/alkenstar%20tinker"
+    },
+    {
+        "value": "Алькенстарский преступник",
+        "label": "Алькенстарский преступник",
+        "url": "https://pf2.ru/backgrounds/alkenstar%20outlaw"
+    },
+    {
+        "value": "Антитехнический активист",
+        "label": "Антитехнический активист",
+        "url": "https://pf2.ru/backgrounds/anti-tech%20activist"
+    },
+    {
+        "value": "Апостол шестерни",
+        "label": "Апостол шестерни",
+        "url": "https://pf2.ru/backgrounds/disciple%20of%20the%20gear"
+    },
+    {
+        "value": "Артист",
+        "label": "Артист",
+        "url": "https://pf2.ru/backgrounds/entertainer"
+    },
+    {
+        "value": "Артист салуна",
+        "label": "Артист салуна",
+        "url": "https://pf2.ru/backgrounds/saloon%20entertainer"
+    },
+    {
+        "value": "Артист-пиротехник",
+        "label": "Артист-пиротехник",
+        "url": "https://pf2.ru/backgrounds/fireworks%20performer"
+    },
+    {
+        "value": "Астролог",
+        "label": "Астролог",
+        "url": "https://pf2.ru/backgrounds/astrologer"
+    },
+    {
+        "value": "Аттеранский коневод",
+        "label": "Аттеранский коневод",
+        "url": "https://pf2.ru/backgrounds/atteran%20rancher"
+    },
+    {
+        "value": "Бачуаньский революционер",
+        "label": "Бачуаньский революционер",
+        "url": "https://pf2.ru/backgrounds/bachuan%20revolutionary"
+    },
+    {
+        "value": "Беглец",
+        "label": "Беглец",
+        "url": "https://pf2.ru/backgrounds/refugee%20(fop)"
+    },
+    {
+        "value": "Беглый дворянин",
+        "label": "Беглый дворянин",
+        "url": "https://pf2.ru/backgrounds/runaway%20noble"
+    },
+    {
+        "value": "Беженец",
+        "label": "Беженец",
+        "url": "https://pf2.ru/backgrounds/refugee"
+    },
+    {
+        "value": "Беженец из Пустошей Маны",
+        "label": "Беженец из Пустошей Маны",
+        "url": "https://pf2.ru/backgrounds/mana%20wastes%20refugee"
+    },
+    {
+        "value": "Бекьярский восстановитель",
+        "label": "Бекьярский восстановитель",
+        "url": "https://pf2.ru/backgrounds/bekyar%20restorer"
+    },
+    {
+        "value": "Белкзенский этнограф",
+        "label": "Белкзенский этнограф",
+        "url": "https://pf2.ru/backgrounds/belkzen%20anthropologist"
+    },
+    {
+        "value": "Библиофил",
+        "label": "Библиофил",
+        "url": "https://pf2.ru/backgrounds/bibliophile"
+    },
+    {
+        "value": "Благородный",
+        "label": "Благородный",
+        "url": "https://pf2.ru/backgrounds/noble"
+    },
+    {
+        "value": "Благородный из Бревоя",
+        "label": "Благородный из Бревоя",
+        "url": "https://pf2.ru/backgrounds/brevic%20noble"
+    },
+    {
+        "value": "Благословлённый",
+        "label": "Благословлённый",
+        "url": "https://pf2.ru/backgrounds/blessed"
+    },
+    {
+        "value": "Боец",
+        "label": "Боец",
+        "url": "https://pf2.ru/backgrounds/warrior"
+    },
+    {
+        "value": "Борец с Гебом",
+        "label": "Борец с Гебом",
+        "url": "https://pf2.ru/backgrounds/geb%20crusader"
+    },
+    {
+        "value": "Бревойский изгой",
+        "label": "Бревойский изгой",
+        "url": "https://pf2.ru/backgrounds/brevic%20outcast"
+    },
+    {
+        "value": "Бродяга",
+        "label": "Бродяга",
+        "url": "https://pf2.ru/backgrounds/street%20urchin"
+    },
+    {
+        "value": "Бродящий по пустоши",
+        "label": "Бродящий по пустоши",
+        "url": "https://pf2.ru/backgrounds/waste%20walker"
+    },
+    {
+        "value": "Брошенный дубликат",
+        "label": "Брошенный дубликат",
+        "url": "https://pf2.ru/backgrounds/discarded%20duplicate"
+    },
+    {
+        "value": "Бюрократ Большого совета",
+        "label": "Бюрократ Большого совета",
+        "url": "https://pf2.ru/backgrounds/grand%20council%20bureaucrat"
+    },
+    {
+        "value": "Варисийский Скиталец",
+        "label": "Варисийский Скиталец",
+        "url": "https://pf2.ru/backgrounds/varisian%20wanderer"
+    },
+    {
+        "value": "Верующий Размирана",
+        "label": "Верующий Размирана",
+        "url": "https://pf2.ru/backgrounds/razmiran%20faithful"
+    },
+    {
+        "value": "Видрианский реформатор",
+        "label": "Видрианский реформатор",
+        "url": "https://pf2.ru/backgrounds/vidrian%20reformer"
+    },
+    {
+        "value": "Водитель",
+        "label": "Водитель",
+        "url": "https://pf2.ru/backgrounds/driver"
+    },
+    {
+        "value": "Возвращённый",
+        "label": "Возвращённый",
+        "url": "https://pf2.ru/backgrounds/returned"
+    },
+    {
+        "value": "Возница",
+        "label": "Возница",
+        "url": "https://pf2.ru/backgrounds/teamster"
+    },
+    {
+        "value": "Воспитанный в вере",
+        "label": "Воспитанный в вере",
+        "url": "https://pf2.ru/backgrounds/raised%20by%20belief"
+    },
+    {
+        "value": "Восстановитель Саркориса",
+        "label": "Восстановитель Саркориса",
+        "url": "https://pf2.ru/backgrounds/sarkorian%20reclaimer"
+    },
+    {
+        "value": "Выдумщик с болота",
+        "label": "Выдумщик с болота",
+        "url": "https://pf2.ru/backgrounds/fogfen%20tale-teller"
+    },
+    {
+        "value": "Выживший Последнего Оплота",
+        "label": "Выживший Последнего Оплота",
+        "url": "https://pf2.ru/backgrounds/lastwall%20survivor"
+    },
+    {
+        "value": "Выживший Саркориса",
+        "label": "Выживший Саркориса",
+        "url": "https://pf2.ru/backgrounds/sarkorian%20survivor"
+    },
+    {
+        "value": "Гадатель",
+        "label": "Гадатель",
+        "url": "https://pf2.ru/backgrounds/fortune%20teller"
+    },
+    {
+        "value": "Гладиатор",
+        "label": "Гладиатор",
+        "url": "https://pf2.ru/backgrounds/gladiator"
+    },
+    {
+        "value": "Говорящий с мамонтами",
+        "label": "Говорящий с мамонтами",
+        "url": "https://pf2.ru/backgrounds/mammoth%20speaker"
+    },
+    {
+        "value": "Гробовщик",
+        "label": "Гробовщик",
+        "url": "https://pf2.ru/backgrounds/undertaker"
+    },
+    {
+        "value": "Дегустатор Чудес",
+        "label": "Дегустатор Чудес",
+        "url": "https://pf2.ru/backgrounds/wonder%20taster"
+    },
+    {
+        "value": "Дендролог",
+        "label": "Дендролог",
+        "url": "https://pf2.ru/backgrounds/dendrologist"
+    },
+    {
+        "value": "Диверсант",
+        "label": "Диверсант",
+        "url": "https://pf2.ru/backgrounds/saboteur"
+    },
+    {
+        "value": "Дикое дитя",
+        "label": "Дикое дитя",
+        "url": "https://pf2.ru/backgrounds/feral%20child"
+    },
+    {
+        "value": "Дилер Золотой Руки",
+        "label": "Дилер Золотой Руки",
+        "url": "https://pf2.ru/backgrounds/goldhand%20arms%20dealer"
+    },
+    {
+        "value": "Диобельский ловец жемчуга",
+        "label": "Диобельский ловец жемчуга",
+        "url": "https://pf2.ru/backgrounds/diobel%20pearl%20diver"
+    },
+    {
+        "value": "Дипломат-чужеземец",
+        "label": "Дипломат-чужеземец",
+        "url": "https://pf2.ru/backgrounds/foreign%20diplomat"
+    },
+    {
+        "value": "Дитя Весткрауна",
+        "label": "Дитя Весткрауна",
+        "url": "https://pf2.ru/backgrounds/child%20of%20westcrown"
+    },
+    {
+        "value": "Дитя зимы",
+        "label": "Дитя зимы",
+        "url": "https://pf2.ru/backgrounds/winters%20child"
+    },
+    {
+        "value": "Дитя Луж",
+        "label": "Дитя Луж",
+        "url": "https://pf2.ru/backgrounds/child%20of%20the%20puddles"
+    },
+    {
+        "value": "Доверенный перевозчик",
+        "label": "Доверенный перевозчик",
+        "url": "https://pf2.ru/backgrounds/remittance%20agent"
+    },
+    {
+        "value": "Доктор из подворотни",
+        "label": "Доктор из подворотни",
+        "url": "https://pf2.ru/backgrounds/back-alley%20doctor"
+    },
+    {
+        "value": "Должник фей",
+        "label": "Должник фей",
+        "url": "https://pf2.ru/backgrounds/feybound"
+    },
+    {
+        "value": "Доставщик еды",
+        "label": "Доставщик еды",
+        "url": "https://pf2.ru/backgrounds/tiffin%20box%20deliverer"
+    },
+    {
+        "value": "Друг животных",
+        "label": "Друг животных",
+        "url": "https://pf2.ru/backgrounds/animal%20whisperer"
+    },
+    {
+        "value": "Дружелюбный кобольд из Темнолунья",
+        "label": "Дружелюбный кобольд из Темнолунья",
+        "url": "https://pf2.ru/backgrounds/friendly%20darkmoon%20kobold"
+    },
+    {
+        "value": "Живчик",
+        "label": "Живчик",
+        "url": "https://pf2.ru/backgrounds/quick"
+    },
+    {
+        "value": "Завербованный",
+        "label": "Завербованный",
+        "url": "https://pf2.ru/backgrounds/press-ganged%20(g&g)"
+    },
+    {
+        "value": "Заводной гладиатор",
+        "label": "Заводной гладиатор",
+        "url": "https://pf2.ru/backgrounds/clockfighter"
+    },
+    {
+        "value": "Заключённый",
+        "label": "Заключённый",
+        "url": "https://pf2.ru/backgrounds/prisoner"
+    },
+    {
+        "value": "Звездочёт",
+        "label": "Звездочёт",
+        "url": "https://pf2.ru/backgrounds/starwatcher"
+    },
+    {
+        "value": "Землепашец",
+        "label": "Землепашец",
+        "url": "https://pf2.ru/backgrounds/farmhand"
+    },
+    {
+        "value": "Зловещий препаратор",
+        "label": "Зловещий препаратор",
+        "url": "https://pf2.ru/backgrounds/eldritch%20anatomist"
+    },
+    {
+        "value": "Знаток пустоши",
+        "label": "Знаток пустоши",
+        "url": "https://pf2.ru/backgrounds/badlands%20scout"
+    },
+    {
+        "value": "Изгнанный из Эрмеи",
+        "label": "Изгнанный из Эрмеи",
+        "url": "https://pf2.ru/backgrounds/hermean%20expatriate"
+    },
+    {
+        "value": "Изгнанный небожитель",
+        "label": "Изгнанный небожитель",
+        "url": "https://pf2.ru/backgrounds/banished%20celestial"
+    },
+    {
+        "value": "Искатель ведьмовских огней",
+        "label": "Искатель ведьмовских огней",
+        "url": "https://pf2.ru/backgrounds/witchlight%20follower"
+    },
+    {
+        "value": "Иссийский партизан",
+        "label": "Иссийский партизан",
+        "url": "https://pf2.ru/backgrounds/issian%20partisan"
+    },
+    {
+        "value": "Иссийский патриот",
+        "label": "Иссийский патриот",
+        "url": "https://pf2.ru/backgrounds/issian%20patriot"
+    },
+    {
+        "value": "Исследователь древних",
+        "label": "Исследователь древних",
+        "url": "https://pf2.ru/backgrounds/scholar%20of%20the%20ancients"
+    },
+    {
+        "value": "Исследователь заводных механизмов",
+        "label": "Исследователь заводных механизмов",
+        "url": "https://pf2.ru/backgrounds/clockwork%20researcher"
+    },
+    {
+        "value": "Исследователь конкорданса",
+        "label": "Исследователь конкорданса",
+        "url": "https://pf2.ru/backgrounds/concordance%20researcher"
+    },
+    {
+        "value": "Исследователь руин",
+        "label": "Исследователь руин",
+        "url": "https://pf2.ru/backgrounds/ruin%20delver"
+    },
+    {
+        "value": "Исследователь Шори",
+        "label": "Исследователь Шори",
+        "url": "https://pf2.ru/backgrounds/shory%20seeker"
+    },
+    {
+        "value": "Ищущий Совершенства",
+        "label": "Ищущий Совершенства",
+        "url": "https://pf2.ru/backgrounds/perfection%20seeker"
+    },
+    {
+        "value": "Канонир",
+        "label": "Канонир",
+        "url": "https://pf2.ru/backgrounds/cannoneer"
+    },
+    {
+        "value": "Конный разведчик",
+        "label": "Конный разведчик",
+        "url": "https://pf2.ru/backgrounds/outrider"
+    },
+    {
+        "value": "Контрабандист чёрного рынка",
+        "label": "Контрабандист чёрного рынка",
+        "url": "https://pf2.ru/backgrounds/black%20market%20smuggler"
+    },
+    {
+        "value": "Копатель Кривых Когтей",
+        "label": "Копатель Кривых Когтей",
+        "url": "https://pf2.ru/backgrounds/hookclaw%20digger"
+    },
+    {
+        "value": "Королевская кровь",
+        "label": "Королевская кровь",
+        "url": "https://pf2.ru/backgrounds/royalty"
+    },
+    {
+        "value": "Кочевник",
+        "label": "Кочевник",
+        "url": "https://pf2.ru/backgrounds/nomad"
+    },
+    {
+        "value": "Криптограф",
+        "label": "Криптограф",
+        "url": "https://pf2.ru/backgrounds/codebreaker"
+    },
+    {
+        "value": "Кристальный целитель",
+        "label": "Кристальный целитель",
+        "url": "https://pf2.ru/backgrounds/crystal%20healer"
+    },
+    {
+        "value": "Культист",
+        "label": "Культист",
+        "url": "https://pf2.ru/backgrounds/cultist"
+    },
+    {
+        "value": "Купец",
+        "label": "Купец",
+        "url": "https://pf2.ru/backgrounds/merchant"
+    },
+    {
+        "value": "Лоялист Трун",
+        "label": "Лоялист Трун",
+        "url": "https://pf2.ru/backgrounds/thrune%20loyalist"
+    },
+    {
+        "value": "Любитель подводного мира",
+        "label": "Любитель подводного мира",
+        "url": "https://pf2.ru/backgrounds/undersea%20enthusiast"
+    },
+    {
+        "value": "Мастер игрушек",
+        "label": "Мастер игрушек",
+        "url": "https://pf2.ru/backgrounds/toymaker"
+    },
+    {
+        "value": "Медик-часовщик",
+        "label": "Медик-часовщик",
+        "url": "https://pf2.ru/backgrounds/medicinal%20clocksmith"
+    },
+    {
+        "value": "Мерабский талант",
+        "label": "Мерабский талант",
+        "url": "https://pf2.ru/backgrounds/merabite%20prodigy"
+    },
+    {
+        "value": "Местный из Диколесья",
+        "label": "Местный из Диколесья",
+        "url": "https://pf2.ru/backgrounds/wildwood%20local"
+    },
+    {
+        "value": "Местный разбойник",
+        "label": "Местный разбойник",
+        "url": "https://pf2.ru/backgrounds/local%20brigand"
+    },
+    {
+        "value": "Металлург",
+        "label": "Металлург",
+        "url": "https://pf2.ru/backgrounds/alloysmith"
+    },
+    {
+        "value": "Метящий в Вольные капитаны",
+        "label": "Метящий в Вольные капитаны",
+        "url": "https://pf2.ru/backgrounds/aspiring%20free%20captain"
+    },
+    {
+        "value": "Механик",
+        "label": "Механик",
+        "url": "https://pf2.ru/backgrounds/mechanic"
+    },
+    {
+        "value": "Механик",
+        "label": "Механик",
+        "url": "https://pf2.ru/backgrounds/tinker"
+    },
+    {
+        "value": "Механический симбиоз",
+        "label": "Механический симбиоз",
+        "url": "https://pf2.ru/backgrounds/mechanical%20symbiosis"
+    },
+    {
+        "value": "Мирской медик",
+        "label": "Мирской медик",
+        "url": "https://pf2.ru/backgrounds/secular%20medic"
+    },
+    {
+        "value": "Миссионер",
+        "label": "Миссионер",
+        "url": "https://pf2.ru/backgrounds/missionary"
+    },
+    {
+        "value": "Миссия из Иного Мира",
+        "label": "Миссия из Иного Мира",
+        "url": "https://pf2.ru/backgrounds/otherworldly%20mission"
+    },
+    {
+        "value": "Мистик Некса",
+        "label": "Мистик Некса",
+        "url": "https://pf2.ru/backgrounds/nexian%20mystic"
+    },
+    {
+        "value": "Младший наследник",
+        "label": "Младший наследник",
+        "url": "https://pf2.ru/backgrounds/lesser%20scion"
+    },
+    {
+        "value": "Многообещающий искатель",
+        "label": "Многообещающий искатель",
+        "url": "https://pf2.ru/backgrounds/pathfinder%20hopeful"
+    },
+    {
+        "value": "Молтунский наемник",
+        "label": "Молтунский наемник",
+        "url": "https://pf2.ru/backgrounds/molthuni%20mercenary"
+    },
+    {
+        "value": "Морской ныряльщик",
+        "label": "Морской ныряльщик",
+        "url": "https://pf2.ru/backgrounds/deep-sea%20diver"
+    },
+    {
+        "value": "Моряк",
+        "label": "Моряк",
+        "url": "https://pf2.ru/backgrounds/sailor"
+    },
+    {
+        "value": "Мусорщик",
+        "label": "Мусорщик",
+        "url": "https://pf2.ru/backgrounds/junker"
+    },
+    {
+        "value": "Мусорщик",
+        "label": "Мусорщик",
+        "url": "https://pf2.ru/backgrounds/scavenger"
+    },
+    {
+        "value": "Наводчик",
+        "label": "Наводчик",
+        "url": "https://pf2.ru/backgrounds/spotter"
+    },
+    {
+        "value": "Наёмный убийца",
+        "label": "Наёмный убийца",
+        "url": "https://pf2.ru/backgrounds/hired%20killer"
+    },
+    {
+        "value": "Наполненный стихиями",
+        "label": "Наполненный стихиями",
+        "url": "https://pf2.ru/backgrounds/elementally%20infused"
+    },
+    {
+        "value": "Насильно завербованный (ПпМ)",
+        "label": "Насильно завербованный (ПпМ)",
+        "url": "https://pf2.ru/backgrounds/press-ganged%20(lowg)"
+    },
+    {
+        "value": "Наследник клинка",
+        "label": "Наследник клинка",
+        "url": "https://pf2.ru/backgrounds/sword%20scion"
+    },
+    {
+        "value": "Небесный наездник",
+        "label": "Небесный наездник",
+        "url": "https://pf2.ru/backgrounds/sky%20rider"
+    },
+    {
+        "value": "Небылица",
+        "label": "Небылица",
+        "url": "https://pf2.ru/backgrounds/tall-tale"
+    },
+    {
+        "value": "Нирмафийский партизан",
+        "label": "Нирмафийский партизан",
+        "url": "https://pf2.ru/backgrounds/nirmathi%20guerrilla"
+    },
+    {
+        "value": "Носитель имени Шоанти",
+        "label": "Носитель имени Шоанти",
+        "url": "https://pf2.ru/backgrounds/shoanti%20name-bearer"
+    },
+    {
+        "value": "Ныряльщик в океан",
+        "label": "Ныряльщик в океан",
+        "url": "https://pf2.ru/backgrounds/ocean%20diver"
+    },
+    {
+        "value": "Оберегаемый ками",
+        "label": "Оберегаемый ками",
+        "url": "https://pf2.ru/backgrounds/warded%20by%20kami"
+    },
+    {
+        "value": "Оживленный желанием",
+        "label": "Оживленный желанием",
+        "url": "https://pf2.ru/backgrounds/wished%20alive"
+    },
+    {
+        "value": "Окружной судья",
+        "label": "Окружной судья",
+        "url": "https://pf2.ru/backgrounds/circuit%20judge"
+    },
+    {
+        "value": "Опасающийся ведьм",
+        "label": "Опасающийся ведьм",
+        "url": "https://pf2.ru/backgrounds/witch%20wary"
+    },
+    {
+        "value": "Оружейник",
+        "label": "Оружейник",
+        "url": "https://pf2.ru/backgrounds/gunsmith"
+    },
+    {
+        "value": "Оруженосец",
+        "label": "Оруженосец",
+        "url": "https://pf2.ru/backgrounds/squire"
+    },
+    {
+        "value": "Освобожденный раб из Авессалома",
+        "label": "Освобожденный раб из Авессалома",
+        "url": "https://pf2.ru/backgrounds/freed%20slave%20of%20absalom"
+    },
+    {
+        "value": "Осирионолог",
+        "label": "Осирионолог",
+        "url": "https://pf2.ru/backgrounds/osirionologist"
+    },
+    {
+        "value": "Отмеченный волной бонуват",
+        "label": "Отмеченный волной бонуват",
+        "url": "https://pf2.ru/backgrounds/bonuwat%20wavetouched"
+    },
+    {
+        "value": "Отшельник",
+        "label": "Отшельник",
+        "url": "https://pf2.ru/backgrounds/hermit"
+    },
+    {
+        "value": "Охотник",
+        "label": "Охотник",
+        "url": "https://pf2.ru/backgrounds/hunter"
+    },
+    {
+        "value": "Охотник за головами",
+        "label": "Охотник за головами",
+        "url": "https://pf2.ru/backgrounds/bounty%20hunter"
+    },
+    {
+        "value": "Охотник с орлом",
+        "label": "Охотник с орлом",
+        "url": "https://pf2.ru/backgrounds/eagle%20hunter"
+    },
+    {
+        "value": "Паломник",
+        "label": "Паломник",
+        "url": "https://pf2.ru/backgrounds/pilgrim"
+    },
+    {
+        "value": "Первопроходец пограничья",
+        "label": "Первопроходец пограничья",
+        "url": "https://pf2.ru/backgrounds/borderlands%20pioneer"
+    },
+    {
+        "value": "Переехавший в Алькенстар",
+        "label": "Переехавший в Алькенстар",
+        "url": "https://pf2.ru/backgrounds/alkenstar%20sojourner"
+    },
+    {
+        "value": "Переживший Универсальную бритву",
+        "label": "Переживший Универсальную бритву",
+        "url": "https://pf2.ru/backgrounds/final%20blade%20survivor"
+    },
+    {
+        "value": "Переживший Шторм",
+        "label": "Переживший Шторм",
+        "url": "https://pf2.ru/backgrounds/storm%20survivor"
+    },
+    {
+        "value": "Печатник",
+        "label": "Печатник",
+        "url": "https://pf2.ru/backgrounds/printer"
+    },
+    {
+        "value": "Планарный скиталец",
+        "label": "Планарный скиталец",
+        "url": "https://pf2.ru/backgrounds/planar%20migrant"
+    },
+    {
+        "value": "Повар",
+        "label": "Повар",
+        "url": "https://pf2.ru/backgrounds/cook"
+    },
+    {
+        "value": "Повстанец",
+        "label": "Повстанец",
+        "url": "https://pf2.ru/backgrounds/insurgent"
+    },
+    {
+        "value": "Подопечный",
+        "label": "Подопечный",
+        "url": "https://pf2.ru/backgrounds/ward"
+    },
+    {
+        "value": "Подчинённый торгового консорциума",
+        "label": "Подчинённый торгового консорциума",
+        "url": "https://pf2.ru/backgrounds/trade%20consortium%20underling"
+    },
+    {
+        "value": "Полевой медик",
+        "label": "Полевой медик",
+        "url": "https://pf2.ru/backgrounds/field%20medic"
+    },
+    {
+        "value": "Помощник шерифа",
+        "label": "Помощник шерифа",
+        "url": "https://pf2.ru/backgrounds/deputy"
+    },
+    {
+        "value": "Посланник",
+        "label": "Посланник",
+        "url": "https://pf2.ru/backgrounds/emissary"
+    },
+    {
+        "value": "Посланник Кионина",
+        "label": "Посланник Кионина",
+        "url": "https://pf2.ru/backgrounds/kyonin%20emissary"
+    },
+    {
+        "value": "Последователь Калистрада",
+        "label": "Последователь Калистрада",
+        "url": "https://pf2.ru/backgrounds/kalistrade%20follower"
+    },
+    {
+        "value": "Последователь Риветуна",
+        "label": "Последователь Риветуна",
+        "url": "https://pf2.ru/backgrounds/rivethun%20adherent"
+    },
+    {
+        "value": "Послушник",
+        "label": "Послушник",
+        "url": "https://pf2.ru/backgrounds/acolyte"
+    },
+    {
+        "value": "Посыльный",
+        "label": "Посыльный",
+        "url": "https://pf2.ru/backgrounds/courier"
+    },
+    {
+        "value": "Потерявший память",
+        "label": "Потерявший память",
+        "url": "https://pf2.ru/backgrounds/amnesiac"
+    },
+    {
+        "value": "Потерянный и одинокий",
+        "label": "Потерянный и одинокий",
+        "url": "https://pf2.ru/backgrounds/lost%20and%20alone"
+    },
+    {
+        "value": "Потомок Богомола",
+        "label": "Потомок Богомола",
+        "url": "https://pf2.ru/backgrounds/mantis%20scion"
+    },
+    {
+        "value": "Потомок Пути Шёпота",
+        "label": "Потомок Пути Шёпота",
+        "url": "https://pf2.ru/backgrounds/whispering%20way%20scion"
+    },
+    {
+        "value": "Преследователь кайдзю",
+        "label": "Преследователь кайдзю",
+        "url": "https://pf2.ru/backgrounds/kaiju%20stalker"
+    },
+    {
+        "value": "Преследуемый вор",
+        "label": "Преследуемый вор",
+        "url": "https://pf2.ru/backgrounds/hounded%20thief"
+    },
+    {
+        "value": "Преследуемый тенью",
+        "label": "Преследуемый тенью",
+        "url": "https://pf2.ru/backgrounds/shadow%20haunted"
+    },
+    {
+        "value": "Преступник",
+        "label": "Преступник",
+        "url": "https://pf2.ru/backgrounds/criminal"
+    },
+    {
+        "value": "Претендент на речной престол",
+        "label": "Претендент на речной престол",
+        "url": "https://pf2.ru/backgrounds/aspiring%20river%20monarch"
+    },
+    {
+        "value": "Проводник в пустыне",
+        "label": "Проводник в пустыне",
+        "url": "https://pf2.ru/backgrounds/desert%20tracker"
+    },
+    {
+        "value": "Продавец уличной еды",
+        "label": "Продавец уличной еды",
+        "url": "https://pf2.ru/backgrounds/streetfood%20vendor"
+    },
+    {
+        "value": "Проклятая семья",
+        "label": "Проклятая семья",
+        "url": "https://pf2.ru/backgrounds/cursed%20family"
+    },
+    {
+        "value": "Проклятый",
+        "label": "Проклятый",
+        "url": "https://pf2.ru/backgrounds/cursed"
+    },
+    {
+        "value": "Профессиональный писатель писем",
+        "label": "Профессиональный писатель писем",
+        "url": "https://pf2.ru/backgrounds/professional%20letter%20writer"
+    },
+    {
+        "value": "Рабочий Консорциума Лесорубов",
+        "label": "Рабочий Консорциума Лесорубов",
+        "url": "https://pf2.ru/backgrounds/lumber%20consortium%20laborer"
+    },
+    {
+        "value": "Разбойник",
+        "label": "Разбойник",
+        "url": "https://pf2.ru/backgrounds/bandit"
+    },
+    {
+        "value": "Разведчик",
+        "label": "Разведчик",
+        "url": "https://pf2.ru/backgrounds/scout"
+    },
+    {
+        "value": "Разведчик конкорданса",
+        "label": "Разведчик конкорданса",
+        "url": "https://pf2.ru/backgrounds/concordance%20scout"
+    },
+    {
+        "value": "Разнорабочий",
+        "label": "Разнорабочий",
+        "url": "https://pf2.ru/backgrounds/laborer"
+    },
+    {
+        "value": "Ревенант",
+        "label": "Ревенант",
+        "url": "https://pf2.ru/backgrounds/revenant"
+    },
+    {
+        "value": "Ремесленник",
+        "label": "Ремесленник",
+        "url": "https://pf2.ru/backgrounds/artisan"
+    },
+    {
+        "value": "Ростландец",
+        "label": "Ростландец",
+        "url": "https://pf2.ru/backgrounds/rostlander"
+    },
+    {
+        "value": "Ростландский партизан",
+        "label": "Ростландский партизан",
+        "url": "https://pf2.ru/backgrounds/rostland%20partisan"
+    },
+    {
+        "value": "Рудокоп",
+        "label": "Рудокоп",
+        "url": "https://pf2.ru/backgrounds/miner"
+    },
+    {
+        "value": "Рыночный посыльный",
+        "label": "Рыночный посыльный",
+        "url": "https://pf2.ru/backgrounds/market%20runner"
+    },
+    {
+        "value": "Сам себе голова",
+        "label": "Сам себе голова",
+        "url": "https://pf2.ru/backgrounds/self-made"
+    },
+    {
+        "value": "Сборщик податей",
+        "label": "Сборщик податей",
+        "url": "https://pf2.ru/backgrounds/tax%20collector"
+    },
+    {
+        "value": "Связанный с зодиаком",
+        "label": "Связанный с зодиаком",
+        "url": "https://pf2.ru/backgrounds/zodiac%20bound"
+    },
+    {
+        "value": "Сенгорский моряк",
+        "label": "Сенгорский моряк",
+        "url": "https://pf2.ru/backgrounds/senghor%20sailor"
+    },
+    {
+        "value": "Сирота Гоблинских войн",
+        "label": "Сирота Гоблинских войн",
+        "url": "https://pf2.ru/backgrounds/goblinblood%20orphan"
+    },
+    {
+        "value": "Слуга",
+        "label": "Слуга",
+        "url": "https://pf2.ru/backgrounds/servant"
+    },
+    {
+        "value": "Собиратель из Сырых земель",
+        "label": "Собиратель из Сырых земель",
+        "url": "https://pf2.ru/backgrounds/sodden%20scavenger"
+    },
+    {
+        "value": "Собиратель кореньев",
+        "label": "Собиратель кореньев",
+        "url": "https://pf2.ru/backgrounds/root%20worker"
+    },
+    {
+        "value": "Собиратель хлама",
+        "label": "Собиратель хлама",
+        "url": "https://pf2.ru/backgrounds/junk%20collector"
+    },
+    {
+        "value": "Спасенный механизмом",
+        "label": "Спасенный механизмом",
+        "url": "https://pf2.ru/backgrounds/saved%20by%20clockwork"
+    },
+    {
+        "value": "Сплетник",
+        "label": "Сплетник",
+        "url": "https://pf2.ru/backgrounds/gossip"
+    },
+    {
+        "value": "Сторонник пустой руки",
+        "label": "Сторонник пустой руки",
+        "url": "https://pf2.ru/backgrounds/empty%20hand%20loyalist"
+    },
+    {
+        "value": "Страж огня",
+        "label": "Страж огня",
+        "url": "https://pf2.ru/backgrounds/fire%20warden"
+    },
+    {
+        "value": "Стражник",
+        "label": "Стражник",
+        "url": "https://pf2.ru/backgrounds/guard"
+    },
+    {
+        "value": "Странствующий гурман",
+        "label": "Странствующий гурман",
+        "url": "https://pf2.ru/backgrounds/traveling%20gourmand"
+    },
+    {
+        "value": "Странствующий проповедник",
+        "label": "Странствующий проповедник",
+        "url": "https://pf2.ru/backgrounds/wandering%20preacher"
+    },
+    {
+        "value": "Судьбоносный соперник",
+        "label": "Судьбоносный соперник",
+        "url": "https://pf2.ru/backgrounds/fated%20rival"
+    },
+    {
+        "value": "Счетовод",
+        "label": "Счетовод",
+        "url": "https://pf2.ru/backgrounds/bookkeeper"
+    },
+    {
+        "value": "Сыщик",
+        "label": "Сыщик",
+        "url": "https://pf2.ru/backgrounds/detective"
+    },
+    {
+        "value": "Талдорский интриган",
+        "label": "Талдорский интриган",
+        "url": "https://pf2.ru/backgrounds/taldan%20schemer"
+    },
+    {
+        "value": "Тассилонский путешественник",
+        "label": "Тассилонский путешественник",
+        "url": "https://pf2.ru/backgrounds/thassilonian%20traveler"
+    },
+    {
+        "value": "Терзаемый призраками",
+        "label": "Терзаемый призраками",
+        "url": "https://pf2.ru/backgrounds/haunted"
+    },
+    {
+        "value": "Технозависимый",
+        "label": "Технозависимый",
+        "url": "https://pf2.ru/backgrounds/tech-reliant"
+    },
+    {
+        "value": "Ткач",
+        "label": "Ткач",
+        "url": "https://pf2.ru/backgrounds/weaver"
+    },
+    {
+        "value": "Торговец диковинками",
+        "label": "Торговец диковинками",
+        "url": "https://pf2.ru/backgrounds/purveyor%20of%20the%20bizarre"
+    },
+    {
+        "value": "Торговец Оникса",
+        "label": "Торговец Оникса",
+        "url": "https://pf2.ru/backgrounds/onyx%20trader"
+    },
+    {
+        "value": "Торговый представитель",
+        "label": "Торговый представитель",
+        "url": "https://pf2.ru/backgrounds/trade%20representative"
+    },
+    {
+        "value": "Травник",
+        "label": "Травник",
+        "url": "https://pf2.ru/backgrounds/herbalist"
+    },
+    {
+        "value": "Трактирщик",
+        "label": "Трактирщик",
+        "url": "https://pf2.ru/backgrounds/barkeep"
+    },
+    {
+        "value": "Тувийский объединитель",
+        "label": "Тувийский объединитель",
+        "url": "https://pf2.ru/backgrounds/thuvian%20unifier"
+    },
+    {
+        "value": "Убийца из Белкзена",
+        "label": "Убийца из Белкзена",
+        "url": "https://pf2.ru/backgrounds/belkzen%20slayer"
+    },
+    {
+        "value": "Уборщик зверинца",
+        "label": "Уборщик зверинца",
+        "url": "https://pf2.ru/backgrounds/menagerie%20dung%20sweeper"
+    },
+    {
+        "value": "Ульфенский налётчик",
+        "label": "Ульфенский налётчик",
+        "url": "https://pf2.ru/backgrounds/ulfen%20raider"
+    },
+    {
+        "value": "Уроженец",
+        "label": "Уроженец",
+        "url": "https://pf2.ru/backgrounds/inlander"
+    },
+    {
+        "value": "Усталавский академик",
+        "label": "Усталавский академик",
+        "url": "https://pf2.ru/backgrounds/ustalavic%20academic"
+    },
+    {
+        "value": "Учёный",
+        "label": "Учёный",
+        "url": "https://pf2.ru/backgrounds/scholar"
+    },
+    {
+        "value": "Учитель",
+        "label": "Учитель",
+        "url": "https://pf2.ru/backgrounds/teacher"
+    },
+    {
+        "value": "Фаворит",
+        "label": "Фаворит",
+        "url": "https://pf2.ru/backgrounds/favored"
+    },
+    {
+        "value": "Фермер",
+        "label": "Фермер",
+        "url": "https://pf2.ru/backgrounds/farmsteader"
+    },
+    {
+        "value": "Художник",
+        "label": "Художник",
+        "url": "https://pf2.ru/backgrounds/artist"
+    },
+    {
+        "value": "Цирюльник",
+        "label": "Цирюльник",
+        "url": "https://pf2.ru/backgrounds/barber"
+    },
+    {
+        "value": "Челийский мятежник",
+        "label": "Челийский мятежник",
+        "url": "https://pf2.ru/backgrounds/chelish%20rebel"
+    },
+    {
+        "value": "Шарлатан",
+        "label": "Шарлатан",
+        "url": "https://pf2.ru/backgrounds/charlatan"
+    },
+    {
+        "value": "Шелковод",
+        "label": "Шелковод",
+        "url": "https://pf2.ru/backgrounds/silk%20farmer"
+    },
+    {
+        "value": "Шериф",
+        "label": "Шериф",
+        "url": "https://pf2.ru/backgrounds/sheriff"
+    },
+    {
+        "value": "Энопионский надсмотрщик за жижами",
+        "label": "Энопионский надсмотрщик за жижами",
+        "url": "https://pf2.ru/backgrounds/oenopion%20ooze-tender"
+    },
+    {
+        "value": "Ювелир",
+        "label": "Ювелир",
+        "url": "https://pf2.ru/backgrounds/jeweler"
+    },
+    {
+        "value": "Яркий Лев",
+        "label": "Яркий Лев",
+        "url": "https://pf2.ru/backgrounds/bright%20lion"
+    },
+
+    {
+      "value": "Другой",
+      "label": "Другое (введите вручную)",
+      "eng": "other"
+    }
+  ]

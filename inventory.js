@@ -682,6 +682,15 @@ function setupInventoryEventListeners() {
         });
     }
     
+    // Назначаем обработчик для кнопки закрытия формы
+    const closeFormBtn = document.querySelector('#addItemForm .btn-close-form');
+    if (closeFormBtn) {
+        closeFormBtn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            toggleItemForm();
+        });
+    }
+    
     console.log('✅ Обработчики настроены');
 }
 

@@ -1,0 +1,34 @@
+{
+  "manifestVersion": 1,
+  "name": "SusaSheet",
+  "entryPoint": "/index.html",
+  "version": "0.1",
+  "descriptionFilePath": "/readme.md",
+ "controls": { "navigation": true, "reload": true },
+
+  "api": {
+    "version": "0.1",
+    "initTimeout": 10,
+    "subscriptions": {
+		"dice": {
+        "onRollResults": "handleRollResult"
+      },
+      "symbiote": {
+       "onInit": "handleInit",
+		"onUpdate": "handleUpdate",
+ "onMessage": "handleMessage",
+"onError": "handleError"
+      }
+	  
+    }
+  },
+  "environment": {
+    "webViewBackgroundColor": "#ffffff",
+    "extras": [
+      "fonts",
+      "icons",
+      "colorStyles"
+    ]
+  }
+
+}
